@@ -1,0 +1,18 @@
+[03-Nov-2014 16:26:11 Europe/Moscow] PHP Fatal error:  Call to undefined function send_request_via_curl1() in /home/garcinia/public_html/protected/modules/product/controllers/DefaultController.php on line 455
+[05-Nov-2014 16:06:23 Europe/Moscow] PHP Fatal error:  Call to a member function hasErrors() on a non-object in /home/garcinia/public_html/yii/framework/web/helpers/CHtml.php on line 2253
+[05-Nov-2014 16:06:42 Europe/Moscow] PHP Fatal error:  Call to a member function hasErrors() on a non-object in /home/garcinia/public_html/yii/framework/web/helpers/CHtml.php on line 2253
+[05-Nov-2014 16:06:55 Europe/Moscow] PHP Fatal error:  Call to a member function hasErrors() on a non-object in /home/garcinia/public_html/yii/framework/web/helpers/CHtml.php on line 2253
+[06-Nov-2014 02:38:20 Europe/Moscow] PHP Fatal error:  Call to a member function getAssetsUrl() on a non-object in /home/garcinia/public_html/themes/front/views/layouts/main.php on line 44
+[06-Nov-2014 02:38:21 Europe/Moscow] PHP Fatal error:  Call to a member function getAssetsUrl() on a non-object in /home/garcinia/public_html/themes/front/views/layouts/main.php on line 44
+[06-Nov-2014 02:38:30 Europe/Moscow] PHP Fatal error:  Call to a member function getAssetsUrl() on a non-object in /home/garcinia/public_html/themes/front/views/layouts/main.php on line 44
+[06-Nov-2014 02:38:49 Europe/Moscow] PHP Fatal error:  Call to a member function getAssetsUrl() on a non-object in /home/garcinia/public_html/themes/front/views/layouts/main.php on line 44
+[06-Nov-2014 08:13:35 Europe/Moscow] PHP Fatal error:  Call to a member function getAssetsUrl() on a non-object in /home/garcinia/public_html/themes/front/views/layouts/main.php on line 44
+[06-Nov-2014 08:29:49 Europe/Moscow] PHP Fatal error:  Call to a member function getAssetsUrl() on a non-object in /home/garcinia/public_html/themes/front/views/layouts/main.php on line 44
+[06-Nov-2014 08:39:05 Europe/Moscow] PHP Parse error:  syntax error, unexpected $end in /home/garcinia/public_html/protected/modules/product/controllers/DefaultController.php on line 87
+[12-Nov-2014 10:02:17 Europe/Moscow] PHP Fatal error:  Call to a member function getAssetsUrl() on a non-object in /home/garcinia/public_html/themes/front/views/layouts/main.php on line 46
+[09-Jan-2015 10:06:28 Europe/Moscow] PHP Fatal error:  Call to a member function getAssetsUrl() on a non-object in /home/garcinia/public_html/themes/front/views/layouts/main.php on line 57
+[09-Jan-2015 10:07:47 Europe/Moscow] PHP Fatal error:  Call to a member function getAssetsUrl() on a non-object in /home/garcinia/public_html/themes/front/views/layouts/main.php on line 57
+[14-Jan-2015 16:16:30 Europe/Moscow] PHP Fatal error:  Call to a member function hasErrors() on a non-object in /home/garcinia/public_html/yii/framework/web/helpers/CHtml.php on line 2253
+[14-Jan-2015 16:18:31 Europe/Moscow] PHP Fatal error:  Call to a member function getAssetsUrl() on a non-object in /home/garcinia/public_html/themes/front/views/layouts/main.php on line 57
+[14-Jan-2015 16:25:59 Europe/Moscow] PHP Fatal error:  Call to a member function getAssetsUrl() on a non-object in /home/garcinia/public_html/themes/front/views/layouts/main.php on line 57
+[06-Feb-2015 18:53:53 Europe/Moscow] PHP Parse error:  syntax error, unexpected $end in /home/garcinia/public_html/protected/modules/product/controllers/DefaultController.php on line 507
